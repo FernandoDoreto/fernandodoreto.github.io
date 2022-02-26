@@ -8,7 +8,7 @@ Here you're going to find:
 
 
 --- 
-### Personal Projects
+## Personal Projects
 > * **NOTES**: (1) if requested, both username and password are: **doreto**. (2) Some apps are deployed in free Heroku tier, so **BOOT TIME** might take a few seconds.
 
 
@@ -30,7 +30,7 @@ Here you're going to find:
 
 ---
 
-### Free content recommendation for Data Science
+## Free content recommendation for Data Science
 
 * [DeepLearning.AI](https://www.deeplearning.ai/){:target="_blank"} - It offers a wide range of incredible (free) courses in AI, Deep Learning, MLOps, NLP and more. Learn awesome use cases with respected instructors/professionals.
 * [Google AI Education](https://ai.google/education/){:target="_blank"} - I found the courses very useful and easy to follow. I specially suggest Introd to ML Problem Framing course.
