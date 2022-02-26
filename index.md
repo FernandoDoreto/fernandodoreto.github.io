@@ -30,7 +30,7 @@ Here you're going to find:
 
 ---
 
-## 📌 Free content recommendation for Data Science
+## 📌 Free content recommendation
 
 * [DeepLearning.AI](https://www.deeplearning.ai/){:target="_blank"} - It offers a wide range of incredible (free) courses in AI, Deep Learning, MLOps, NLP and more. Learn awesome use cases with respected instructors/professionals.
 * [Google AI Education](https://ai.google/education/){:target="_blank"} - I found the courses very useful and easy to follow. I specially suggest Introd to ML Problem Framing course.
