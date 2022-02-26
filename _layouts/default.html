@@ -4,6 +4,11 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+      .img-container {
+        text-align: center;
+        display: block;
+      }
 
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
@@ -17,9 +22,10 @@
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
         
         {% if site.logo %}
-          <div align: center">
-            <img src="{{site.logo | relative_url}}" alt="Logo" width="40%" height="40%"  />
-           </div>
+          <span class="img-container"> <!-- Inline parent element -->
+             <img src="{{site.logo | relative_url}}" alt="Logo" width="40%" height="40%"  />
+          </span>
+
         {% endif %}
 
         <p style="font-size:12px">{{ site.description | default: site.github.project_tagline }}</p>
