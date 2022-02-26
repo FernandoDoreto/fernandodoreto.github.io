@@ -7,11 +7,10 @@ Here you're going to find:
 > * Free content recommendation to **learn and apply Data Science**.
 
 
-Data Science for me is about **combining business experience and technology**. 
-* It doesn’t matter if your technology is based on TensorFlow or on multiple Excel spreadsheets, if it’s (1) integrated seamlessly with existing business processes and (2) reveals un-obvious/relevant insights, it has practical value.
-
+--- 
 ### Personal Projects
 > * **NOTES**: (1) if requested, both username and password are: **doreto**. (2) Some apps are deployed in free Heroku tier, so **BOOT TIME** might take a few seconds.
+
 
 
 [Project 1 Title](/sample_page)
@@ -37,10 +36,6 @@ Data Science for me is about **combining business experience and technology**.
 * Udemy courses from [Soledad G.](https://www.udemy.com/user/soledad-galli/) [Christopher S.](https://www.udemy.com/user/christopher-samiullah/) and [J. Portilla](https://www.udemy.com/user/joseportilla/) - It's not free of charge, but Udemy offers discounts very often. It gave me the practical foundation for ML systems (create and deploy ML pipeline, unit test, logging, versioning, monitoring), it helps you to understand how to go from Research (Jupyter notebook) to Production.
 * This bullet isn't a course recommendation, but more a professional suggestion: there might arrive a moment where you have to show your project's progress/conclusion, or even share an idea with the team. An interactive web app / web dashboard comes in hand. If you use Python, you could try [Streamlit](https://www.streamlit.io/) or [Django](https://www.djangoproject.com/). If you prefer R, you could try [Shiny](https://shiny.rstudio.com/). There are plenty of tutorials/references available on GitHub, YouTube, Stack Overflow etc.
 * Data Science leaders on LinkedIn: a way I found useful to keep updated on data science is to connect with / follow data profesionals on LinkedIn. A list of professionals I typically find a lot of inspiration is: [this lady](https://www.linkedin.com/in/kozyrkov/), [this guy](https://www.linkedin.com/in/andrewyng/), [specially this guy](https://www.linkedin.com/in/eric-weber-060397b7/), [this lady](https://www.linkedin.com/in/chiphuyen/), [this lady](https://www.linkedin.com/in/soledad-galli/), [this guy](https://www.linkedin.com/in/stevenouri/), [this lady](https://www.linkedin.com/in/dalianaliu/) and [this guy](https://www.linkedin.com/in/datawithdanny/).
-
----
-
-
 
 
 ---
