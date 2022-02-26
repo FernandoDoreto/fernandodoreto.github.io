@@ -44,6 +44,6 @@ Here you're going to find:
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio" target="_blank">evanca</a></p>
-<p style="font-size:11px">>Hosted on GitHub Pages - Theme by <a href="https://github.com/orderedlist" target="_blank">orderedlist</a> </p>
+<p style="font-size:11px">Hosted on GitHub Pages - Theme by <a href="https://github.com/orderedlist" target="_blank">orderedlist</a> </p>
 
 <!-- Remove above link if you don't want to attibute -->
