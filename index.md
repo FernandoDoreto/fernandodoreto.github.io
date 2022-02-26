@@ -12,7 +12,7 @@ Here you're going to find:
 > * **NOTES**: (1) if requested, both username and password are: **doreto**. (2) Some apps are deployed in free Heroku tier, so **BOOT TIME** might take a few seconds.
 
 
-* **ML API**: Once you found an ML model that meets your project's requirements, you will likely deploy an API that will be embedded into an existing solution. This API shall have an endpoint for prediction. In this project, the [API](https://doreto-ml-api.herokuapp.com/) is developed with Django Rest Framework and deployed at Heroku. This project explains the ML Business Case behind the project, and monitors the data (inputs and predictions) from the API. [Click here](https://share.streamlit.io/fernandorocha88/portfolio-ml-api/main/app.py)
+* **ML API**: Once you found an ML model that meets your project's requirements, you will likely deploy an API that will be embedded into an existing solution. This API shall have an endpoint for prediction. In this project, the [API](https://doreto-ml-api.herokuapp.com/) is developed with Django Rest Framework and deployed at Heroku. This project explains the ML Business Case behind the project, and monitors the data (inputs and predictions) from the API. Testeeeee [Click here](https://share.streamlit.io/fernandorocha88/portfolio-ml-api/main/app.py){:target="_blank"} 
 
 * **Regression and Clustering**: Let's explore patterns on rental bikes levels based on weather and seasonal information (temperature, working day, season, humidity etc) and will predict rental bike levels, so the Operations team can have more accurate information when reloading bike stations. [Click here](https://share.streamlit.io/fernandorocha88/portfolio-rental-bikes/main/app.py)
 
