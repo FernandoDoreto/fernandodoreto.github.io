@@ -1,14 +1,14 @@
-## Welcome to my personal Data Science Portfolio
+## 👋 Welcome to my personal portfolio 
 
 ---
 
 Here you're going to find:
-* My latest **personal projects** and
-* Free content recommendation to **learn and apply Data Science**.
+* 📚 My latest **personal projects** and
+* 📌 Free content recommendation to **learn and apply Data Science**.
 
 
 --- 
-## Personal Projects
+## 📚 Personal Projects
 <p style="font-size:11px"> <b>NOTES</b>: (1) if requested, both username and password are: <b>doreto</b>. (2) Some apps are deployed in free Heroku tier, so <b>boot time</b> might take a few seconds. </p>
 
 
@@ -30,7 +30,7 @@ Here you're going to find:
 
 ---
 
-## Free content recommendation for Data Science
+## 📌 Free content recommendation for Data Science
 
 * [DeepLearning.AI](https://www.deeplearning.ai/){:target="_blank"} - It offers a wide range of incredible (free) courses in AI, Deep Learning, MLOps, NLP and more. Learn awesome use cases with respected instructors/professionals.
 * [Google AI Education](https://ai.google/education/){:target="_blank"} - I found the courses very useful and easy to follow. I specially suggest Introd to ML Problem Framing course.
