@@ -9,7 +9,7 @@ Here you're going to find:
 
 --- 
 ## Personal Projects
-<p style="font-size:11px">> * **NOTES**: (1) if requested, both username and password are: **doreto**. (2) Some apps are deployed in free Heroku tier, so **BOOT TIME** might take a few seconds. </p>
+<p style="font-size:11px"> <b>NOTES</b>: (1) if requested, both username and password are: <b>doreto</b>. (2) Some apps are deployed in free Heroku tier, so <b>boot time</b> might take a few seconds. </p>
 
 
 * **ML API**: Once you found an ML model that meets your project's requirements, you will likely deploy an API that will be embedded into an existing solution. This API shall have an endpoint for prediction. In this project, the [API](https://doreto-ml-api.herokuapp.com/){:target="_blank"}  is developed with Django Rest Framework and deployed at Heroku. This project explains the ML Business Case behind the project, and monitors the data (inputs and predictions) from the API. [Click here](https://share.streamlit.io/fernandorocha88/portfolio-ml-api/main/app.py){:target="_blank"} 
