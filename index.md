@@ -3,8 +3,8 @@
 ---
 
 Here you're going to find:
-> * My latest **personal projects** and
-> * Free content recommendation to **learn and apply Data Science**.
+* My latest **personal projects** and
+* Free content recommendation to **learn and apply Data Science**.
 
 
 --- 
