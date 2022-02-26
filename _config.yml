@@ -2,8 +2,10 @@ title: Fernando Doreto # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   I have 10+ years of experience, combined, in Data Analytics, and B2B Sales. 
-  <br> 
   Feel free to reach me at <a href="https://www.linkedin.com/in/fernandodoreto/" target="_blank" >LinkedIn</a>.
+  <br><br>
+  I am interested in topics related to NLP and ML Interpretability.
+  
    
   
 theme: jekyll-theme-minimal
