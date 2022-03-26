@@ -9,27 +9,24 @@ Here you're going to find:
 
 --- 
 ## 📚 Personal Projects
-<p style="font-size:11px"> <b>NOTES</b>: (1) if requested, both username and password are: <b>doreto</b>. (2) Some apps are deployed in free Heroku tier, so <b>boot time</b> might take a few seconds. </p>
+<p style="font-size:11px"> <b>NOTES</b>: The apps are deployed in Streamlit, so <b>boot time</b> might take a few seconds. </p>
 
 
-* **ML API**: Once you found an ML model that meets your project's requirements, you will likely deploy an API that will be embedded into an existing software solution, with an endpoint for prediction. In this project, the [API](https://doreto-ml-api.herokuapp.com/){:target="_blank"} is developed with Django Rest Framework and deployed at Heroku. This dashboard explains the ML Business Case behind the project, and monitors the API's inputs and predictions. [Click here](https://share.streamlit.io/fernandorocha88/portfolio-ml-api/main/app.py){:target="_blank"} 
+* **Machine Learning API**: Once you found an ML model that meets your project's requirements, you will likely deploy an API that will be embedded into an existing software solution. In this project, the [API](https://doreto-ml-api.herokuapp.com/){:target="_blank"} is developed with Django Rest Framework and deployed at Heroku. This dashboard explains the ML Business Case behind the project, and monitors the API's inputs and predictions. [Click here](https://share.streamlit.io/fernandorocha88/portfolio-ml-api/main/app.py){:target="_blank"} 
 
-* **Regression and Clustering**: Let's explore patterns on rental bikes levels based on weather and seasonal information (temperature, working day, season, humidity etc) and predict rental bike levels for a given day, so the Operations team can have more accurate information when reloading bike stations. [Click here](https://share.streamlit.io/fernandorocha88/portfolio-rental-bikes/main/app.py){:target="_blank"} 
+* **Bike Rental Levels Analytics (Regression and Clustering)**: Let's explore patterns on rental bikes levels based on weather and seasonal information (temperature, working day, season, humidity etc) and predict rental bike levels for a given day, so the Operations team can have more accurate information when reloading bike stations. [Click here](https://share.streamlit.io/fernandorocha88/portfolio-rental-bikes/main/app.py){:target="_blank"} 
 
-* **Binary Classification**: Predictive ML model to classify a breast mass sample diagnosis as malignant or benign. Learn how the main features affect malignant/benign diagnostic; and check how the system is able to detect when input data is in a dubious range; helping the user to make more educated decision. [Click here](https://doreto-binary-clf.herokuapp.com/){:target="_blank"} 
-
-* **Clustering**: Prescriptive ML model to segment your customer base and identify which customers are more likely to churn. Check out each cluster profile; which variables are the most relevant and what makes a customer to churn . That can help Marketing and Sales teams to set more effective strategies to increase customer retention and satisfaction. [Click here](https://doreto-cluster.herokuapp.com/){:target="_blank"} 
+* **Customer Churn Analytics (Binary Classification and Clustering)**: We are interested in predicting if a given customer will stop using our services and to cluster the customer base to understand each cluster profile, so that Marketing and Sales can learn more about its customer base segmentation and prevent customer churn. [Click here](https://share.streamlit.io/fernandorocha88/portfolio-telecom-customer-base/main/app.py){:target="_blank"}  
 
 
+* **Association Rules**: coming soon
 * **Natural Language Processing**: coming soon
 * **Image Recognition**: coming soon
 * **Recommender Systems**: coming soon 
 
 
-<!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
 ---
-
 ## 📌 Free content recommendation
 
 * [DeepLearning.AI](https://www.deeplearning.ai/){:target="_blank"} - It offers a wide range of incredible (free) courses in AI, Deep Learning, MLOps, NLP and more. Learn awesome use cases with respected instructors/professionals.
