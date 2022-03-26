@@ -9,7 +9,7 @@ Here you're going to find:
 
 --- 
 ## 📚 Personal Projects
-<p style="font-size:11px"> <b>NOTES</b>: The apps are deployed in Streamlit, so <b>boot time</b> might take a few seconds. </p>
+<p style="font-size:11px"> <b>NOTE</b>: The apps are deployed in Streamlit Sharing, so <b>boot time</b> might take a few seconds. </p>
 
 
 * **Machine Learning API**: Once you found an ML model that meets your project's requirements, you will likely deploy an API that will be embedded into an existing software solution. In this project, the [API](https://doreto-ml-api.herokuapp.com/){:target="_blank"} is developed with Django Rest Framework and deployed at Heroku. This dashboard explains the ML Business Case behind the project, and monitors the API's inputs and predictions. [Click here](https://share.streamlit.io/fernandorocha88/portfolio-ml-api/main/app.py){:target="_blank"} 
