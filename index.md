@@ -18,8 +18,9 @@ Here you're going to find:
 
 * **Customer Churn Analytics (Binary Classification and Clustering)**: We are interested in predicting if a given customer will stop using our services and to cluster the customer base to understand each cluster profile, so that Marketing and Sales can learn more about its customer base segmentation and prevent customer churn. [Click here](https://share.streamlit.io/fernandorocha88/portfolio-telecom-customer-base/main/app.py){:target="_blank"}  
 
+* **Market Basket Analysis (Association Rules)**: Here we are interested to uncover associations among items from a grocery store. That allows to define product placement optimization and promote targeted advertisement to increase the person propensity to buy more products. [Click here](https://share.streamlit.io/fernandorocha88/portfolio-market-basket/main/app.py){:target="_blank"}  
 
-* **Association Rules**: coming soon
+
 * **Natural Language Processing**: coming soon
 * **Image Recognition**: coming soon
 * **Recommender Systems**: coming soon 
