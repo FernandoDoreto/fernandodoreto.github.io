@@ -21,10 +21,10 @@ Here you're going to find:
 * **Market Basket Analysis (Association Rules)**: Here we are interested to uncover associations among items from a grocery store. That allows to define product placement optimization and promote targeted advertisement to increase the person propensity to buy more products. [Click here](https://share.streamlit.io/fernandorocha88/portfolio-market-basket/main/app.py){:target="_blank"}  
 
 
+
 * **Natural Language Processing**: coming soon
 * **Image Recognition**: coming soon
 * **Recommender Systems**: coming soon 
-
 
 
 ---
