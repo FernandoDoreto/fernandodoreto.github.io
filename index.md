@@ -11,7 +11,7 @@ Here you're going to find:
 ## 📚 Personal Projects
 <p style="font-size:11px"> <b>NOTE</b>: The apps are deployed in Streamlit Sharing, so <b>boot time</b> might take a few seconds. </p>
 
-* **Machine Learning API**: Once you found an ML model that meets your project's requirements, you will likely deploy an API that will be embedded into an existing software solution. In this project, the [API](https://doreto-ml-api.herokuapp.com/){:target="_blank"} is developed with Django Rest Framework and deployed at Heroku. This dashboard explains the ML Business Case behind the project, and monitors the ML API's inputs and predictions. [Click here](https://share.streamlit.io/fernandorocha88/portfolio-ml-api/main/app.py){:target="_blank"} 
+* **Machine Learning API**: Once you found an ML model that meets your project's requirements, you will likely deploy an API that will be embedded into an existing software solution. In this project, the [API](https://doreto-ml-api.herokuapp.com/){:target="_blank"} is developed with Django Rest Framework and deployed at Heroku. This dashboard explains the ML Business Case behind the project, and monitors the ML API's inputs and predictions. [Click here](https://fernando-ml-api.streamlitapp.com/){:target="_blank"} 
 
 * **News Analytics (NLP)**: You received a list of news. Imagine if in this list, you could check in advance the news topic and sentiment, so you can pick the news you're most interested in. Once you select a given news, you will not read the full content, but a concise summary with the content you need to stay informed. [Click here](https://share.streamlit.io/fernandorocha88/portfolio-nlp/main/app.py){:target="_blank"} 
 
