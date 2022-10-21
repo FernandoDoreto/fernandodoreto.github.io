@@ -19,7 +19,7 @@ Here you're going to find:
 
 * **Bike Rental Levels Analytics (Regression and Clustering)**: Let's explore patterns in rental bikes levels based on weather and seasonal information (temperature, working day, season, humidity etc) and predict rental bike levels for a given day, so the Operations team can have more accurate information when reloading bike stations. [Click here](https://fernando-rental-bikes.streamlitapp.com/){:target="_blank"} 
 
-* **Market Basket Analysis (Association Rules)**: Here we are interested to uncover associations among items from a grocery store. That allows to define product placement optimization and promote targeted advertisement to increase the person's propensity to buy more products. [Click here](https://share.streamlit.io/fernandorocha88/portfolio-market-basket/main/app.py){:target="_blank"}  
+* **Market Basket Analysis (Association Rules)**: Here we are interested to uncover associations among items from a grocery store. That allows to define product placement optimization and promote targeted advertisement to increase the person's propensity to buy more products. [Click here](https://fernando-market-basket.streamlitapp.com/){:target="_blank"}  
 
 
 * **Image Recognition**: coming soon
