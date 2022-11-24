@@ -11,8 +11,6 @@ Here you're going to find:
 ## 📚 Personal Projects
 <p style="font-size:11px"> <b>NOTE</b>: The apps are deployed in Streamlit Sharing, so <b>boot time</b> might take a few seconds. </p>
 
-* **Machine Learning API**: Once you found an ML model that meets your project's requirements, you will likely deploy an API that will be embedded into an existing software solution. In this project, the [API](https://doreto-ml-api.herokuapp.com/){:target="_blank"} is developed with Django Rest Framework and deployed at Heroku. This dashboard explains the ML Business Case behind the project, and monitors the ML API's inputs and predictions. [Click here](https://fernando-ml-api.streamlitapp.com/){:target="_blank"} 
-
 * **News Analytics (NLP)**: You received a list of news. Imagine if in this list, you could check in advance the news topic and sentiment, so you can pick the news you're most interested in. Once you select a given news, you will not read the full content, but a concise summary with the content you need to stay informed. [Click here](https://fernando-nlp-news.streamlitapp.com/){:target="_blank"} 
 
 * **Customer Churn Analytics (Binary Classification and Clustering)**: We are interested in predicting if a given customer will stop using our services and to cluster the customer base to understand each cluster profile, so that Marketing and Sales can learn more about its customer base segmentation and prevent customer churn. [Click here](https://fernando-telecom-customer-base.streamlitapp.com/){:target="_blank"}  
@@ -20,6 +18,8 @@ Here you're going to find:
 * **Bike Rental Levels Analytics (Regression and Clustering)**: Let's explore patterns in rental bikes levels based on weather and seasonal information (temperature, working day, season, humidity etc) and predict rental bike levels for a given day, so the Operations team can have more accurate information when reloading bike stations. [Click here](https://fernando-rental-bikes.streamlitapp.com/){:target="_blank"} 
 
 * **Market Basket Analysis (Association Rules)**: Here we are interested to uncover associations among items from a grocery store. That allows to define product placement optimization and promote targeted advertisement to increase the person's propensity to buy more products. [Click here](https://fernando-market-basket.streamlitapp.com/){:target="_blank"}  
+
+* **Machine Learning API**: Once you found an ML model that meets your project's requirements, you will likely deploy an API that will be embedded into an existing software solution. In this project, the [API](https://doreto-ml-api.herokuapp.com/){:target="_blank"} is developed with Django Rest Framework and deployed at Heroku. This dashboard explains the ML Business Case behind the project, and monitors the ML API's inputs and predictions. [Click here](https://fernando-ml-api.streamlitapp.com/){:target="_blank"} 
 
 
 * **Image Recognition**: coming soon
