@@ -21,8 +21,6 @@ Here you're going to find:
 
 * **Market Basket Analysis (Association Rules)**: Here we are interested to uncover associations among items from a grocery store. That allows to define product placement optimization and promote targeted advertisement to increase the person's propensity to buy more products. [Click here](https://fernando-market-basket.streamlitapp.com/){:target="_blank"}  
 
-* **Machine Learning API**: Once you found an ML model that meets your project's requirements, you will likely deploy an API that will be embedded into an existing software solution. In this project, the [API](https://doreto-ml-api.herokuapp.com/){:target="_blank"} is developed with Django Rest Framework and deployed at Heroku. This dashboard explains the ML Business Case behind the project, and monitors the ML API's inputs and predictions. [Click here](https://fernando-ml-api.streamlitapp.com/){:target="_blank"} 
-
 
 * **Image Recognition**: coming soon
 * **Recommender Systems**: coming soon 
