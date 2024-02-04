@@ -13,8 +13,6 @@ Here you're going to find:
 
 * **Customer Insights and Sales Strategy Recommendation**: Business stakeholders from a retailer chain are interested in understanding overall results and patterns across different products/regions. On top of that, they want to discuss data-driven business strategies and recommendations, around product, pricing, and customer behavior. [Click here](https://portfolio-kmart.streamlit.app/){:target="_blank"} 
 
-* **News Analytics (NLP)**: You received a list of news. Imagine if you could check in advance the news topic and sentiment, so you can pick the news you're most interested in. Once you select a given news, you will not read the full content, only a concise summary with the info you need to stay informed. [Click here](https://fernando-nlp-news.streamlitapp.com/){:target="_blank"} 
-
 * **Customer Churn Analytics (Binary Classification and Clustering)**: We are interested in predicting if a given customer will stop using our services and to cluster the customer base to understand each cluster profile, so that Marketing and Sales can learn more about its customer base segmentation and prevent customer churn. [Click here](https://fernando-telecom-customer-base.streamlitapp.com/){:target="_blank"}  
 
 * **Bike Rental Levels Analytics (Regression and Clustering)**: Let's explore patterns in rental bikes levels based on weather and seasonal information (temperature, working day, season, humidity etc) and predict rental bike levels for a given day, so the Operations team can have more accurate information when reloading bike stations. [Click here](https://fernando-rental-bikes.streamlitapp.com/){:target="_blank"} 
