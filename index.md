@@ -2,39 +2,38 @@
 
 ---
 
-Here you're going to find:
-* 📚 My latest **personal projects** and
-* 📌 Free content recommendation to **learn and apply Data Science**.
-
+Explore my latest personal projects and find free resources to learn and apply Data Science.
 
 --- 
 ## 📚 Personal Projects
-<p style="font-size:11px"> <b>NOTE</b>: The apps are deployed in Streamlit Sharing, so <b>boot time</b> might take a few seconds. </p>
+<p style="font-size:11px"> <b>NOTE</b>: These apps are deployed in Streamlit Sharing, so they may take a few seconds to load. </p>
 
-* **Customer Insights and Sales Strategy Recommendation**: Business stakeholders from a retailer chain are interested in understanding overall results and patterns across different products/regions. On top of that, they want to discuss data-driven business strategies and recommendations, around product, pricing, and customer behavior. [Click here](https://portfolio-kmart.streamlit.app/){:target="_blank"} 
+* **Customer Insights and Sales Strategy Recommendation**: Analyze and learn overall results and patterns across products and regions for a retail chain. Learn data-driven strategies around product offerings, pricing, and customer behavior. [Click here](https://portfolio-kmart.streamlit.app/){:target="_blank"} 
 
-* **Customer Churn Analytics (Binary Classification and Clustering)**: We are interested in predicting if a given customer will stop using our services and to cluster the customer base to understand each cluster profile, so that Marketing and Sales can learn more about its customer base segmentation and prevent customer churn. [Click here](https://fernando-telecom-customer-base.streamlitapp.com/){:target="_blank"}  
+* **Customer Churn Analytics (Binary Classification and Clustering)**: Predict if customers will stop using a service and segment the customer base to better understand customer profiles. This helps the Marketing and Sales teams reduce churn.. [Click here](https://fernando-telecom-customer-base.streamlitapp.com/){:target="_blank"}  
 
-* **Bike Rental Levels Analytics (Regression and Clustering)**: Let's explore patterns in rental bikes levels based on weather and seasonal information (temperature, working day, season, humidity etc) and predict rental bike levels for a given day, so the Operations team can have more accurate information when reloading bike stations. [Click here](https://fernando-rental-bikes.streamlitapp.com/){:target="_blank"} 
+* **Bike Rental Levels Analytics (Regression and Clustering)**: Identify patterns in bike rentals based on weather and seasonal data. Predict daily rental levels to help the Operations team manage bike station supplies more effectively. [Click here](https://fernando-rental-bikes.streamlitapp.com/){:target="_blank"} 
 
-* **Market Basket Analysis (Association Rules)**: Here we are interested to uncover associations among items from a grocery store. That allows to define product placement optimization and promote targeted advertisement to increase the person's propensity to buy more products. [Click here](https://fernando-market-basket.streamlitapp.com/){:target="_blank"}  
+* **Market Basket Analysis (Association Rules)**: Discover item associations in a grocery store to optimize product placement and create targeted promotions, encouraging customers to buy more. [Click here](https://fernando-market-basket.streamlitapp.com/){:target="_blank"}  
 
 
-* **Image Recognition**: coming soon
-* **Recommender Systems**: coming soon 
+* **Image Recognition**: Coming soon.
+* **Recommender Systems**: Coming soon.
 
 ---
-## 📌 Free content recommendation
+## 📌 Resources to learn and apply Data Science
 
-* [DeepLearning.AI](https://www.deeplearning.ai/){:target="_blank"} - It offers a wide range of incredible (free) courses in AI, Deep Learning, MLOps, NLP and more. Learn awesome use cases with respected instructors/professionals.
-* [Google AI Education](https://ai.google/education/){:target="_blank"} - I found the courses very useful and easy to follow. I specially suggest Introd to ML Problem Framing course.
+* [DeepLearning.AI](https://www.deeplearning.ai/){:target="_blank"} - Offers a range of free courses on AI, Deep Learning, MLOps, NLP, and more. Learn from top instructors and real-world use cases.
+* [Google AI Education](https://ai.google/education/){:target="_blank"} - Useful and easy-to-follow courses. I recommend starting with "Intro to ML Problem Framing."
 * [StatQuest YouTube Channel](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw){:target="_blank"} - If you really want to understand (and apply) statistics and ML concepts, go there.
 * [Cassie Kozyrkov](https://www.youtube.com/c/Kozyrkov/playlists){:target="_blank"} has a set series of videos on "Full Applied AI Lectures" and "Making Friends with Machine Learning". It will definitely improve your vision on AI and ML.
-* [Full Stack Deep Learning](https://course.fullstackdeeplearning.com/){:target="_blank"} - It shows not only technical aspects, but also touches project mgt, product design and insights on how to succeed on AI systems. At the end, guest lectures presentations showcase practical examples in the field.
-* Udemy courses from [Soledad G.](https://www.udemy.com/user/soledad-galli/){:target="_blank"}, [Christopher S.](https://www.udemy.com/user/christopher-samiullah/){:target="_blank"}, and [J. Portilla](https://www.udemy.com/user/joseportilla/){:target="_blank"} - It's not free of charge, but Udemy offers discounts very often. It gave me the practical foundation for ML systems (create and deploy ML pipeline, unit test, logging, versioning, monitoring), it helps you to understand how to go from Research (Jupyter notebook) to Production.
+* [Full Stack Deep Learning](https://course.fullstackdeeplearning.com/){:target="_blank"} - Learn about technical aspects, project management, product design, and insights for success in AI systems. Features practical examples from guest speakers.
+* Udemy courses from [Soledad G.](https://www.udemy.com/user/soledad-galli/){:target="_blank"}, [Christopher S.](https://www.udemy.com/user/christopher-samiullah/){:target="_blank"}, and [J. Portilla](https://www.udemy.com/user/joseportilla/){:target="_blank"} - Courses from these professionals offer practical foundations for building and deploying machine learning systems. Udemy frequently offers discounts, making these courses affordable. It helps you to understand how to go from Research (Jupyter notebook) to Production.
 * There might arrive a moment where you have to show your project's progress/conclusion, or even share an idea/prototype with the team. An interactive web app dashboard comes in hand. If you use Python, you could try [Streamlit](https://www.streamlit.io/){:target="_blank"} or [Django](https://www.djangoproject.com/){:target="_blank"}. If you prefer R, you could try [Shiny](https://shiny.rstudio.com/){:target="_blank"}. There are plenty of tutorials/references available on GitHub, YouTube, Stack Overflow etc.
 * Data Science leaders on LinkedIn: a way I found useful to keep updated on data science is to connect with / follow data profesionals on LinkedIn. A list of professionals I typically find a lot of inspiration is: [this lady](https://www.linkedin.com/in/kozyrkov/){:target="_blank"}, [this guy](https://www.linkedin.com/in/andrewyng/){:target="_blank"}, [specially this guy](https://www.linkedin.com/in/eric-weber-060397b7/){:target="_blank"}, [this lady](https://www.linkedin.com/in/chiphuyen/){:target="_blank"}, [this lady](https://www.linkedin.com/in/soledad-galli/){:target="_blank"}, [this guy](https://www.linkedin.com/in/stevenouri/){:target="_blank"}, [this lady](https://www.linkedin.com/in/dalianaliu/){:target="_blank"} and [this guy](https://www.linkedin.com/in/datawithdanny/){:target="_blank"}.
 
+
+Thank you for visiting my portfolio page!
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio" target="_blank">evanca</a></p>
