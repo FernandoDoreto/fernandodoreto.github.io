@@ -10,9 +10,14 @@
 
 ## 📊 Projects
 
-### 🛒 Retail Analytics: A Decision Cockpit for a Supermarket Chain
+### 🛒 Retail Analytics
   
-* Turns a supermarket's sales data into decisions, not just dashboards. It splits any margin swing into what really moved it — which products, and whether it came from selling more, changing prices, or shifting costs. It maps every product line onto a Protect / Fix / Grow / Review grid to surface hidden gems and quiet margin traps, and breaks demand into three clean reads: more baskets, bigger baskets, richer baskets. <a href="https://retail-supermarket-analytics.streamlit.app/" target="_blank" style="display:inline-block; padding:8px 16px; background:#0366d6; color:#fff; border-radius:6px; text-decoration:none; font-weight:600;">Open the app →</a>
+Turns a supermarket's sales data into decisions, not just dashboards:
+* **What moved margin**: splits any swing into which products drove it, and whether it came from selling more, changing prices, or shifting costs.
+* **What to do with each product**: maps every line onto a Protect / Fix / Grow / Review grid, surfacing hidden gems and quiet margin traps.
+* **Where demand is going**: breaks growth into three reads: more baskets, bigger baskets, richer baskets.
+
+<a href="https://retail-supermarket-analytics.streamlit.app/" target="_blank" style="display:inline-block; padding:8px 16px; background:#0366d6; color:#fff; border-radius:6px; text-decoration:none; font-weight:600;">Open the app →</a>
 
 ---
 
