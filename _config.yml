@@ -1,14 +1,10 @@
-title: Fernando Doreto # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  I have 10+ years of experience, combined, in Data Analytics, and B2B Sales. 
+title: Fernando Doreto
+logo: "/images/logo.png?raw=true"
+description: >
+  7 years in Data Analytics & AI and 6 years in B2B Sales.
   <br><br>
-  I'm an Electrical Engineer with MBA in Commercial Mgt and HDip in Data Analytics. 
-  Feel free to reach me at <a href="https://www.linkedin.com/in/fernandodoreto/" target="_blank" >LinkedIn</a>.
+  Electrical Engineer with an MBA in Commercial Management and a HDip in Data Analytics.
   <br><br>
-  I am interested in topics related to NLP and ML Interpretability.
-  
-   
-  
+  Reach me on <a href="https://www.linkedin.com/in/fernando-doreto/" target="_blank">LinkedIn</a>.
 theme: jekyll-theme-minimal
-google_analytics: 
+google_analytics:
