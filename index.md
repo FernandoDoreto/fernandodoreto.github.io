@@ -1,42 +1,38 @@
-## 👋 Welcome to my personal portfolio 
+## 👋 Welcome
+
+**Analytics professional who uses AI as a thought partner, and builds with it.**
+
+🎯 7 years in Data Analytics & AI and 6 years in B2B Sales, delivering enterprise AI capabilities and scalable analytics products.
+⭐ Core expertise in product analytics, AI Agents, GenAI, LLMs, and data pipelines across enterprise and startup environments.
+🛠️ Tech stack: Python, Databricks, Snowflake, SQL, Azure, Tableau, Streamlit, VS Code, Claude Code
 
 ---
 
-Explore my latest personal projects and find free resources to learn and apply Data Science.
+## 🛒 Project
 
---- 
-## 📚 Personal Projects
-<p style="font-size:11px"> <b>NOTE</b>: These apps are deployed in Streamlit Sharing, so they may take a few seconds to load. </p>
+<div style="border:1px solid #e1e4e8; border-radius:8px; padding:16px 20px; margin:8px 0;">
+  <h3 style="margin:0 0 8px;">Retail Analytics: Margin &amp; Demand for a Supermarket Chain</h3>
+  <p style="margin:0 0 14px;">See where a retailer's margin really comes from and where it's at risk, and tell a real swing from noise before you react. Track whether demand is growing the right way and which products pull shoppers in.</p>
+  <a href="https://portfolio-kmart.streamlit.app/" target="_blank" style="display:inline-block; padding:8px 16px; background:#0366d6; color:#fff; border-radius:6px; text-decoration:none; font-weight:600;">Open the app →</a>
+</div>
 
-* **Customer Insights and Sales Strategy Recommendation**: Analyze and learn overall results and patterns across products and regions for a retail chain. Learn data-driven strategies around product offerings, pricing, and customer behavior. [Click here](https://portfolio-kmart.streamlit.app/){:target="_blank"} 
-
-* **Customer Churn Analytics (Binary Classification and Clustering)**: Predict if customers will stop using a service and segment the customer base to better understand customer profiles. This helps the Marketing and Sales teams reduce churn.. [Click here](https://fernando-telecom-customer-base.streamlitapp.com/){:target="_blank"}  
-
-* **Bike Rental Levels Analytics (Regression and Clustering)**: Identify patterns in bike rentals based on weather and seasonal data. Predict daily rental levels to help the Operations team manage bike station supplies more effectively. [Click here](https://fernando-rental-bikes.streamlitapp.com/){:target="_blank"} 
-
-* **Market Basket Analysis (Association Rules)**: Discover item associations in a grocery store to optimize product placement and create targeted promotions, encouraging customers to buy more. [Click here](https://fernando-market-basket.streamlitapp.com/){:target="_blank"}  
-
-
-* **Image Recognition**: Coming soon.
-* **Recommender Systems**: Coming soon.
+<p style="font-size:11px;">Deployed on Streamlit Community Cloud — may take a few seconds to wake up.</p>
 
 ---
-## 📌 Resources to learn and apply Data Science
 
-* [DeepLearning.AI](https://www.deeplearning.ai/){:target="_blank"} - Offers a range of free courses on AI, Deep Learning, MLOps, NLP, and more. Learn from top instructors and real-world use cases.
-* [Google AI Education](https://ai.google/education/){:target="_blank"} - Useful and easy-to-follow courses. I recommend starting with "Intro to ML Problem Framing."
-* [StatQuest YouTube Channel](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw){:target="_blank"} - If you really want to understand (and apply) statistics and ML concepts, go there.
-* [Cassie Kozyrkov](https://www.youtube.com/c/Kozyrkov/playlists){:target="_blank"} has a set series of videos on "Full Applied AI Lectures" and "Making Friends with Machine Learning". It will definitely improve your vision on AI and ML.
-* [Full Stack Deep Learning](https://course.fullstackdeeplearning.com/){:target="_blank"} - Learn about technical aspects, project management, product design, and insights for success in AI systems. Features practical examples from guest speakers.
-* Udemy courses from [Soledad G.](https://www.udemy.com/user/soledad-galli/){:target="_blank"}, [Christopher S.](https://www.udemy.com/user/christopher-samiullah/){:target="_blank"}, and [J. Portilla](https://www.udemy.com/user/joseportilla/){:target="_blank"} - Courses from these professionals offer practical foundations for building and deploying machine learning systems. Udemy frequently offers discounts, making these courses affordable. It helps you to understand how to go from Research (Jupyter notebook) to Production.
-* There might arrive a moment where you have to show your project's progress/conclusion, or even share an idea/prototype with the team. An interactive web app dashboard comes in hand. If you use Python, you could try [Streamlit](https://www.streamlit.io/){:target="_blank"} or [Django](https://www.djangoproject.com/){:target="_blank"}. If you prefer R, you could try [Shiny](https://shiny.rstudio.com/){:target="_blank"}. There are plenty of tutorials/references available on GitHub, YouTube, Stack Overflow etc.
-* Data Science leaders on LinkedIn: a way I found useful to keep updated on data science is to connect with / follow data profesionals on LinkedIn. A list of professionals I typically find a lot of inspiration is: [this lady](https://www.linkedin.com/in/kozyrkov/){:target="_blank"}, [this guy](https://www.linkedin.com/in/andrewyng/){:target="_blank"}, [specially this guy](https://www.linkedin.com/in/eric-weber-060397b7/){:target="_blank"}, [this lady](https://www.linkedin.com/in/chiphuyen/){:target="_blank"}, [this lady](https://www.linkedin.com/in/soledad-galli/){:target="_blank"}, [this guy](https://www.linkedin.com/in/stevenouri/){:target="_blank"}, [this lady](https://www.linkedin.com/in/dalianaliu/){:target="_blank"} and [this guy](https://www.linkedin.com/in/datawithdanny/){:target="_blank"}.
+## 📚 Resources I actually use
 
+* [DeepLearning.AI](https://www.deeplearning.ai/){:target="_blank"} — free courses on AI, LLMs, MLOps and more, from top instructors.
+* [StatQuest (YouTube)](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw){:target="_blank"} — the clearest explanations of stats and ML concepts, with the intuition behind them.
+* [Cassie Kozyrkov (YouTube)](https://www.youtube.com/c/Kozyrkov/playlists){:target="_blank"} — "Making Friends with Machine Learning" and applied-AI lectures that sharpen how you think about decisions, not just models.
+* **Matt Pocock — [aihero.dev](https://www.aihero.dev/){:target="_blank"} & [agent skills](https://github.com/mattpocock/skills){:target="_blank"}** — how to code *with* AI agents rigorously: reusable, model-agnostic skills that keep code quality and architecture intact instead of treating AI as a shortcut.
 
-Thank you for visiting my portfolio page!
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio" target="_blank">evanca</a></p>
-<p style="font-size:11px">Hosted on GitHub Pages - Theme by <a href="https://github.com/orderedlist" target="_blank">orderedlist</a> </p>
 
-<!-- Remove above link if you don't want to attibute -->
+## 🤝 Let's talk
+
+Thanks for stopping by. If any of this resonates, reach me on [LinkedIn](https://www.linkedin.com/in/fernando-doreto/){:target="_blank"}.
+
+---
+<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio" target="_blank">evanca</a> · Hosted on GitHub Pages</p>
