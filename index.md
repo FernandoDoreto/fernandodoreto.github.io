@@ -35,5 +35,3 @@ Turns a supermarket's sales data into decisions, not just dashboards:
 
 Thanks for stopping by. If any of this resonates, reach me on [LinkedIn](https://www.linkedin.com/in/fernando-doreto/){:target="_blank"}.
 
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio" target="_blank">evanca</a> · Hosted on GitHub Pages</p>
