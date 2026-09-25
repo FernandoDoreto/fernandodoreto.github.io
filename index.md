@@ -12,10 +12,10 @@
 
 ### 🛒 Retail Analytics
   
-Turns a supermarket's sales data into decisions, not just dashboards:
-* **What moved margin**: splits any swing into which products drove it, and whether it came from selling more, changing prices, or shifting costs.
-* **What to do with each product**: maps every line onto a Protect / Fix / Grow / Review grid, surfacing hidden gems and quiet margin traps.
-* **Where demand is going**: breaks growth into three reads: more baskets, bigger baskets, richer baskets.
+Analytics for a Brazilian supermarket chain.
+* **Track:** how is the business doing, and what changed?
+* **Explain:** where does margin come from and how exposed is it? What moved it, and is it real? Is demand growing the right way?
+* **Decide:** where to protect, fix or grow. The app sizes and ranks what moved; you make the call.
 
 <a href="https://retail-supermarket-analytics.streamlit.app/" target="_blank" style="display:inline-block; padding:8px 16px; background:#0366d6; color:#fff; border-radius:6px; text-decoration:none; font-weight:600;">Open the app →</a>
 
